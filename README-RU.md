@@ -7,7 +7,7 @@
 - Скачать папку figma-autohotkey из этого репозитория и положить в любое место вашего компьютера.
 - Запустить скрипт my-ahk.ahk.
 ## Горячие клавиши
-![Список горячих клавиш](<img width="933" alt="image" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey/figma/figma-shortcuts-windows-custom.png">)
+![Список горячих клавиш](img width="933" alt="image" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey/figma/figma-shortcuts-windows-custom.png")
 
 ## Настройка
 
