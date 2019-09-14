@@ -11,8 +11,9 @@ https://www.autohotkey.com/docs/KeyList.htm
 #if WinActive("ahk_exe Figma.exe")
 
 ; Figma Shortcuts Setup
+;===========================================================================================
 
-    ; View ======================
+; View ======================
 
     !q::FC("fro")               ; [Frame Outlines]
     !w::FC("lgr")               ; [Layout Grids]
@@ -24,7 +25,7 @@ https://www.autohotkey.com/docs/KeyList.htm
     ^3::FC("zt1")               ; [Zoom to 100%]
     !SC029::FC("nxtp")          ; [Next Page] Alt+`
 
-    ; Object ====================
+; Object ====================
 
     ^f::FC("frsli")             ; [Frame Selection]
     ^SC034::FC("gtms")          ; [Go to Master Component] Ctrl+.
@@ -32,11 +33,11 @@ https://www.autohotkey.com/docs/KeyList.htm
     ^-::FC("shhsl")             ; [Show/Hide Selection]
     ^=::FC("lkul")              ; [Lock/Unlock Selection]
 
-	; Vector ====================
+; Vector ====================
 
     ^+j::FC("sthj")             ; [Smooth Join Selection]
 
-	; Arrange ===================
+; Arrange ===================
 
     !Left::FC("aglt")           ; [Align Left]
     ^!Left::FC("aghc")          ; [Align Horizontal Centers]
@@ -55,12 +56,12 @@ https://www.autohotkey.com/docs/KeyList.htm
     ^#!Up::FC("pkvt")           ; [Pack Vertical]
     ^#!Down::FC("pkvt")         ; [Pack Vertical]
 
-    ; Plug-ins ==================
+; Plug-ins ==================
 
     ^p::FC("rlp")               ; [Run Last Plugin]
     !p::FC("rb")                ; [Resize Button]
 
-    ; Other =====================
+; Other =====================
 
     Escape::FC("slpar")         ; [Select Parent]
 
