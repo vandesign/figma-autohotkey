@@ -1,5 +1,5 @@
 ### [РУС](https://github.com/vandesign/figma-autohotkey/blob/master/README-RU.md)
-<img height="150" alt="Figma AHK" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey.png">
+<img width="256" alt="Figma AHK" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey.png">
 
 # Custom Shortcuts for Figma
 Autohotkey 1.1.30 script for add Custom Shortcuts to Figma (Win).
