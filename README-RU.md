@@ -1,4 +1,4 @@
-### [ENG](https://github.com/vandesign/figma-autohotkey/blob/master/README.md)
+### [ENG](https://github.com/vandesign/figma-autohotkey/blob/master/README.md) | РУС
 <img width="256" alt="Figma AHK" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey.png">
 
 # Настройка клавиатурных сокращений для Figma
