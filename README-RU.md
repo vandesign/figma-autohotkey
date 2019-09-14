@@ -13,6 +13,7 @@
 <img width="933" alt="image" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey/figma/figma-shortcuts-windows-custom.png">
 
 ## Настройка
+Ссылка на видео.
 
 ## Дополнительно
 Вы можете получить шаблон в формате Figma для составления и распечатки своего списка горячих клавиш.
