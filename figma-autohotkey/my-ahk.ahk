@@ -12,8 +12,6 @@ UsedLanguage :=
 
 #if
 
-RAlt::LAlt
-
 ; Func and var
 
 SaveUsedKeyboardLayout()

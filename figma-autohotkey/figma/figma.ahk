@@ -92,3 +92,6 @@ RTI()
 	SendInput, {RCtrl up}{LCtrl up}
 	Return
 }
+
+RAlt & vk07::return
+RAlt::Send {LAlt}
