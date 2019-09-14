@@ -14,59 +14,55 @@ https://www.autohotkey.com/docs/KeyList.htm
 
 	; View ======================
 
-		!q::FC("fro")				; [Frame Outlines]				| Mac (View ; Frame Outlines) Alt+Q
-		!w::FC("lgr")				; [Layout Grids]					| Mac (View ; Show Layout Grids) Alt+W
-		!e::FC("sou")				; [Show Outlines]					| Mac (View ; Show Outlines) Alt+E
-;fix Mac
-		!r::FC("shu")				; [Show/Hide UI]					| Mac (View ; Show UI) Alt+R
-		!a::FC("pxw")				; [Pixel Preview]					| Mac (View ; Pixel Preview) Alt+A
-		^1::FC("ztf")				; [Zoom to Fit]						| Mac (View ; Zoom to Fit) Cmd+1
-		^2::FC("zts")				; [Zoom to Selection]			| Mac (View ; Zoom to Selection) Cmd+2
-		^3::FC("zt1")				; [Zoom to 100%]					| Mac (View ; Zoom to 100%) Cmd+3
-;fix Mac
-		!SC029::FC("nxtp")	; [Next Page] ALt+`				| Mac (View ; Next Page) Alt+
+		!q::FC("fro")						; [Frame Outlines]
+		!w::FC("lgr")						; [Layout Grids]
+		!e::FC("sou")						; [Show Outlines]
+		!r::FC("shu")						; [Show/Hide UI]
+		!a::FC("pxw")						; [Pixel Preview]
+		^1::FC("ztf")						; [Zoom to Fit]
+		^2::FC("zts")						; [Zoom to Selection]
+		^3::FC("zt1")						; [Zoom to 100%]
+		!SC029::FC("nxtp")			; [Next Page] Alt+`
 
 	; Object ====================
 
-		^f::FC("frsli")			; [Frame Selection]				| Mac (Object ; Frame Selection) Cmd+F
-		^SC034::FC("gtms")	; [Go to Master Component] Ctrl+.	| Mac (Object ; Master Component ; Go to Master Component) Cmd+.
-		^SC033::RTI()				; [Return to Instance*] Ctrl+,		| Mac (Return to Instance*) Cmd+,
-;fix Mac
-		^-::FC("shhsl")			; [Show/Hide Selection] 			| Mac (Object ; Show/Hide Selection) Ctrl+-
-;fix Mac
-		^=::FC("lkul")			; [Lock/Unlock Selection] 			| Mac (Object ; Lock/Unlock Selection) Ctrl+=
+		^f::FC("frsli")					; [Frame Selection]
+		^SC034::FC("gtms")			; [Go to Master Component] Ctrl+.
+		^SC033::RTI()						; [Return to Instance*] Ctrl+,
+		^-::FC("shhsl")					; [Show/Hide Selection]
+		^=::FC("lkul")					; [Lock/Unlock Selection]
 
 	; Vector ====================
 
-		^+j::FC("sthj")			; [Smooth Join Selection]
+		^+j::FC("sthj")					; [Smooth Join Selection]
 
 	; Arrange ===================
 
-		!Left::FC("aglt")		; [Align Left]						| Mac (Arrange ; Align Left) Alt+Left
-		^!Left::FC("aghc")		; [Align Horizontal Centers]		| Mac (Arrange ; Align Horizontal Centers) Alt+Cmd+Left
-		^!Right::FC("aghc")		; [Align Horizontal Centers]		| Mac (Arrange ; Align Horizontal Centers) Alt+Cmd+Right
-		!Right::FC("agrt")		; [Align Right]						| Mac (Arrange ; Align Right) Alt+Right
-		!Up::FC("agtp")			; [Align Top]						| Mac (Arrange ; Align Top) Alt+Top
-		^!Up::FC("agvc")		; [Align Vertical Centers]			| Mac (Arrange ; Align Vertical Centers) Alt+Cmd+Up
-		^!Down::FC("agvc")		; [Align Vertical Centers]			| Mac (Arrange ; Align Vertical Centers) Alt+Cmd+Down
-		!Down::FC("agbt")		; [Align Bottom]					| Mac (Arrange ; Align Bottom) Alt+Down
-		!+Right::FC("dhzp")		; [Distribute Horizontal Spacing]	| Mac (Arrange ; Distribute Horizontal Spacing) Alt+Shift+Right
-		!+Left::FC("dhzp")		; [Distribute Horizontal Spacing]	| Mac (Arrange ; Distribute Horizontal Spacing) Alt+Shift+Left
-		!+Up::FC("dvlp")		; [Distribute Vertical Spacing]		| Mac (Arrange ; Distribute Vertical Spacing) Alt+Shift+Top
-		!+Down::FC("dvlp")		; [Distribute Vertical Spacing]		| Mac (Arrange ; Distribute Vertical Spacing) Alt+Shift+Down
-		^#!Left::FC("pkhz")		; [Pack Horizontal]					| Mac (Arrange ; Pack Horizontal) Ctrl+Alt+Cmd+Left
-		^#!Right::FC("pkhz")	; [Pack Horizontal]					| Mac (Arrange ; Pack Horizontal) Ctrl+Alt+Cmd+Right
-		^#!Up::FC("pkvt")		; [Pack Vertical]					| Mac (Arrange ; Pack Vertical) Ctrl+Alt+Cmd+Up
-		^#!Down::FC("pkvt")		; [Pack Vertical]					| Mac (Arrange ; Pack Vertical) Ctrl+Alt+Cmd+Down
+		!Left::FC("aglt")				; [Align Left]
+		^!Left::FC("aghc")			; [Align Horizontal Centers]
+		^!Right::FC("aghc")			; [Align Horizontal Centers]
+		!Right::FC("agrt")			; [Align Right]
+		!Up::FC("agtp")					; [Align Top]
+		^!Up::FC("agvc")				; [Align Vertical Centers]
+		^!Down::FC("agvc")			; [Align Vertical Centers]
+		!Down::FC("agbt")				; [Align Bottom]
+		!+Right::FC("dhzp")			; [Distribute Horizontal Spacing]
+		!+Left::FC("dhzp")			; [Distribute Horizontal Spacing]
+		!+Up::FC("dvlp")				; [Distribute Vertical Spacing]
+		!+Down::FC("dvlp")			; [Distribute Vertical Spacing]
+		^#!Left::FC("pkhz")			; [Pack Horizontal]
+		^#!Right::FC("pkhz")		; [Pack Horizontal]
+		^#!Up::FC("pkvt")				; [Pack Vertical]
+		^#!Down::FC("pkvt")			; [Pack Vertical]
 
 	; Plug-ins ==================
 
-		^p::FC("rlp")			; [Run Last Plugin] 				| Mac (Plugins ; Run Last Plugin) Cmd+P
-		!p::FC("rb")			; [Resize Button]					| Mac (Plugins ; Button Resizer ; Resize Button) Alt+P
+		^p::FC("rlp")						; [Run Last Plugin]
+		!p::FC("rb")						; [Resize Button]
 
 	; Other =====================
 
-		Escape::FC("slpar")		; [Select Parent]					| Mac (Select Parent) Escape
+		Escape::FC("slpar")			; [Select Parent]
 
 
 ;===========================================================================================

@@ -1,5 +1,5 @@
 ### [ENG](https://github.com/vandesign/figma-autohotkey/blob/master/README.md)
-![Figma Autohotkey](https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey.png)
+<img height="150" alt="Figma AHK" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey.png">
 
 # Настройка клавиатурных сокращений для Figma
 Скрипт для создания своих горячих клавиш в Figma используя Autohotkey 1.1.30.
@@ -10,7 +10,7 @@
 - Запустить скрипт my-ahk.ahk.
 
 ## Горячие клавиши
-<img width="933" alt="image" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey/figma/figma-shortcuts-windows-custom.png">
+<img width="933" alt="Shortcuts" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey/figma/figma-shortcuts-windows-custom.png">
 
 ## Настройка
 Ссылка на видео.
