@@ -8,6 +8,7 @@
 - [Скачать](https://www.autohotkey.com/) и установить Autohotkey 1.1.3 (Current Version).
 - Скачать папку figma-autohotkey из этого репозитория и положить в любое место вашего компьютера.
 - Запустить скрипт my-ahk.ahk.
+- Для автоматической загрузки скрипта после сделайте ярлык файла my-ahk.ahk и поместите его в папку `%systemdrive%\users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
 ## Горячие клавиши
 <img width="933" alt="Shortcuts" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey/figma/figma-shortcuts-windows-custom.png">

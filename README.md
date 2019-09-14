@@ -8,6 +8,7 @@ Autohotkey 1.1.30 script for add Custom Shortcuts to Figma (Win).
 - [Download](https://www.autohotkey.com/) and install Autohotkey 1.1.3 (Current Version).
 - Download folder figma-autohotkey from this repo.
 - Run script my-ahk.ahk.
+- Create shortcut from file my-ahk.ahk and sed to `%systemdrive%\users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
 ## Shortcuts
 <img width="933" alt="Shortcuts" src="https://github.com/vandesign/figma-autohotkey/blob/master/figma-autohotkey/figma/figma-shortcuts-windows-custom.png">
