@@ -7,6 +7,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 EnLanguageCode := 0x4090409
 UsedLanguage :=
 
+
 #Include figma\figma.ahk
 
 #if

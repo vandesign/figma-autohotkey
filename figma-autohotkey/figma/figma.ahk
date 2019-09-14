@@ -14,23 +14,23 @@ https://www.autohotkey.com/docs/KeyList.htm
 
 	; View ======================
 
-		!q::FC("fro")			; [Frame Outlines]					| Mac (View ; Frame Outlines) Alt+Q
-		!w::FC("lgr")			; [Layout Grids]					| Mac (View ; Show Layout Grids) Alt+W
-		!e::FC("sou")			; [Show Outlines]					| Mac (View ; Show Outlines) Alt+E
+		!q::FC("fro")				; [Frame Outlines]				| Mac (View ; Frame Outlines) Alt+Q
+		!w::FC("lgr")				; [Layout Grids]					| Mac (View ; Show Layout Grids) Alt+W
+		!e::FC("sou")				; [Show Outlines]					| Mac (View ; Show Outlines) Alt+E
 ;fix Mac
-		!r::FC("shu")			; [Show/Hide UI]					| Mac (View ; Show UI) Alt+R
-		!a::FC("pxw")			; [Pixel Preview]					| Mac (View ; Pixel Preview) Alt+A
-		^1::FC("ztf")			; [Zoom to Fit]						| Mac (View ; Zoom to Fit) Cmd+1
-		^2::FC("zts")			; [Zoom to Selection]				| Mac (View ; Zoom to Selection) Cmd+2
-		^3::FC("zt1")			; [Zoom to 100%]					| Mac (View ; Zoom to 100%) Cmd+3
+		!r::FC("shu")				; [Show/Hide UI]					| Mac (View ; Show UI) Alt+R
+		!a::FC("pxw")				; [Pixel Preview]					| Mac (View ; Pixel Preview) Alt+A
+		^1::FC("ztf")				; [Zoom to Fit]						| Mac (View ; Zoom to Fit) Cmd+1
+		^2::FC("zts")				; [Zoom to Selection]			| Mac (View ; Zoom to Selection) Cmd+2
+		^3::FC("zt1")				; [Zoom to 100%]					| Mac (View ; Zoom to 100%) Cmd+3
 ;fix Mac
-		!SC029::FC("nxtp")		; [Next Page] ALt+`					| Mac (View ; Next Page) Alt+
+		!SC029::FC("nxtp")	; [Next Page] ALt+`				| Mac (View ; Next Page) Alt+
 
 	; Object ====================
 
-		^f::FC("frsli")			; [Frame Selection]					| Mac (Object ; Frame Selection) Cmd+F
-		^SC034::FC("gtms")		; [Go to Master Component] Ctrl+.	| Mac (Object ; Master Component ; Go to Master Component) Cmd+.
-		^SC033::RTI()			; [Return to Instance*] Ctrl+,		| Mac (Return to Instance*) Cmd+,
+		^f::FC("frsli")			; [Frame Selection]				| Mac (Object ; Frame Selection) Cmd+F
+		^SC034::FC("gtms")	; [Go to Master Component] Ctrl+.	| Mac (Object ; Master Component ; Go to Master Component) Cmd+.
+		^SC033::RTI()				; [Return to Instance*] Ctrl+,		| Mac (Return to Instance*) Cmd+,
 ;fix Mac
 		^-::FC("shhsl")			; [Show/Hide Selection] 			| Mac (Object ; Show/Hide Selection) Ctrl+-
 ;fix Mac
