@@ -13,9 +13,6 @@ Autohotkey 1.1.30 script for add Custom Shortcuts to Figma (Win).
 ## Shortcuts
 ![Shortcuts](./figma-autohotkey/figma/figma-shortcuts-windows-custom.png)
 
-## Setup
-Ссылка на видео.
-
 ## Figma template
 Figma template with the shortcuts is available in
 [vandesign/figma-shortcuts](https://github.com/vandesign/figma-shortcuts#figma)
