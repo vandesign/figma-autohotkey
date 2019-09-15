@@ -13,6 +13,9 @@
 ## Горячие клавиши
 ![Shortcuts](./figma-autohotkey/figma/figma-shortcuts-windows-custom.png)
 
+## Настройка
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hkbTDbXc5Ng/0.jpg)](http://www.youtube.com/watch?v=hkbTDbXc5Ng)
+
 ## Дополнительно
 Шаблон в формате Figma для составления и распечатки своего списка горячих клавиш находится в репозитории
 [vandesign/figma-shortcuts](https://github.com/vandesign/figma-shortcuts#figma).
