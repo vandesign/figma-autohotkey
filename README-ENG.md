@@ -1,5 +1,5 @@
 ### ENG | [РУС](./README.md)
-<img width="256" alt="Figma AHK" src="./figma-autohotkey.png">
+![Figma AHK logo](./figma-autohotkey.png)
 
 # Custom Shortcuts for Figma
 Autohotkey 1.1.30 script for add Custom Shortcuts to Figma (Win).
@@ -11,7 +11,7 @@ Autohotkey 1.1.30 script for add Custom Shortcuts to Figma (Win).
 - Create shortcut from file my-script.ahk and sed to `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`
 
 ## Shortcuts
-<img width="933" alt="Shortcuts" src="./figma-autohotkey/figma/figma-shortcuts-windows-custom.png">
+![Shortcuts](./figma-autohotkey/figma/figma-shortcuts-windows-custom.png)
 
 ## Setup
 Ссылка на видео.
