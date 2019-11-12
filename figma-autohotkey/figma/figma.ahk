@@ -17,7 +17,7 @@ https://www.autohotkey.com/docs/KeyList.htm
 
     !q::FC("fro")               ; [Frame Outlines]
     !w::FC("lgr")               ; [Layout Grids]
-    !e::FC("out")               ; [Show Outlines]
+    !e::FC("out")               ; [Outlines]
     !r::FC("shu")               ; [Show/Hide UI]
     !a::FC("pxw")               ; [Pixel Preview]
     ^1::FC("ztf")               ; [Zoom to Fit]
